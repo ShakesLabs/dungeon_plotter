@@ -1,5 +1,9 @@
 # display_map.py
 # We want to print out basic text representation of a map
+# to do: assign dungeon objects to variables representing their "ness" 
+# and present them. randomly select variables to fill a 5x5 square.
+
+tree = "T"
 
 print("XXX")
 print("XYX")
